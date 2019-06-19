@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!");
     }
 
-    //第一行注释
+    //第1行注释
+    //第2行注释
 }
